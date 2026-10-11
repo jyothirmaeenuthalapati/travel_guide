@@ -139,8 +139,8 @@ Keep the Flask backend running while using the application.
 
 The application is deployed on Render as two separate services.
 
-- Frontend: https://travel-agent-frontend-3z38.onrender.com
-- Backend: https://travel-agent-zgxw.onrender.com
+- Frontend: https://travel-guide-1-up82.onrender.com/
+- Backend: https://travel-guide-dt8f.onrender.com
 
 The frontend communicates with the deployed backend through HTTP requests.
 
