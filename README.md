@@ -67,7 +67,7 @@ You will also need API keys for Google Gemini and Murf AI.
 
 1. Clone the Repository
 
-git clone 
+git clone https://github.com/jyothirmaeenuthalapati/travel_guide.git
 cd Travel_agent
 
 
